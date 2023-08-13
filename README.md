@@ -4,8 +4,8 @@ This project is a basic CRUD (Create, Read, Update, Delete) web application deve
 
 ## Hosted Links
 
-1. FrontEnd :
-2. BackEnd :
+1. FrontEnd : https://student-crud-front.onrender.com/
+2. BackEnd : https://student-crud-back.onrender.com/
 
 ## Features
 
