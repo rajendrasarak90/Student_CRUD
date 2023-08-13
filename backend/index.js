@@ -6,11 +6,18 @@ const PORT = process.env.PORT || 8000;
 const app = express();
 
 // create database pool using user and password
+// const db = mysql.createPool({
+//   host: "localhost",
+//   user: "root",
+//   password: "raj2001@90abc%67",
+//   database: "student_db",
+// });
+
 const db = mysql.createPool({
-  host: "localhost",
-  user: "root",
-  password: "raj2001@90abc%67",
-  database: "student_db",
+  host: "student-db.ctihoqc9hmab.eu-north-1.rds.amazonaws.com",
+  user: "admin",
+  password: "Sarak2001",
+  database: "students_db",
 });
 
 // check database connection

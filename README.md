@@ -2,6 +2,11 @@
 
 This project is a basic CRUD (Create, Read, Update, Delete) web application developed as part of the recruitment process for MyrsaTech Solutions. The application allows users to manage student records by performing various operations such as creating, reading, updating, and deleting student data. It utilizes React.js for the frontend, Node.js with Express for the backend, and MySQL for the database.
 
+## Hosted Links
+
+1. FrontEnd :
+2. BackEnd :
+
 ## Features
 
 - Create new student records with a name and age.
