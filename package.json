@@ -1,0 +1,13 @@
+{
+  "name": "students_crud",
+  "version": "1.0.0",
+  "description": "crud operations project in partial fulfillment of MyrsaTech selection process",
+  "main": "index.js",
+  "scripts": {
+    "front": "cd frontend && npm start",
+    "back": "cd backend && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajendra Sarak",
+  "license": "ISC"
+}
